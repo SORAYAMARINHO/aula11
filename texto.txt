@@ -18,3 +18,5 @@ Git e Git Hub
 *** 'git merge <nome-da-branch-com-o-recurso>'
 
 ** git status: confere se precisamos fazer pull ou push
+
+** git log: ver os commits.
